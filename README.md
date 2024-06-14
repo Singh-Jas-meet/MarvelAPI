@@ -10,7 +10,7 @@ This JavaFX application allows users to search for Marvel comics by character na
 - Display comic title, description, thumbnail, characters, and URLs in a separate view.
 
 ## Usage
-1. Clone the repository: git clone https://github.com/your-username/marvel-comics-search.git
+1. Clone the repository: gh repo clone Singh-Jas-meet/MarvelAPI
 2. Open the project in your preferred Java IDE.
 3. Run the `Main` class to launch the application.
 4. Enter a Marvel character name in the search box and click the "Search" button.
